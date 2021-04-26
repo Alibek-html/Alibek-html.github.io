@@ -1,1 +1,85 @@
-<mxfile host="app.diagrams.net" modified="2021-04-26T14:23:19.041Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36" version="14.5.10" etag="1ag_3qglwtBBg7MPDcOw" type="github"><diagram id="0-azUuZJES-ZKVxUK6yJ">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-04-26T14:40:09.762Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36" etag="LANIrWVBd2DMTvMrb1-S" version="14.5.10" type="github">
+  <diagram id="0-azUuZJES-ZKVxUK6yJ" name="Page-1">
+    <mxGraphModel dx="760" dy="401" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="BCSCtO8i4w_WZG_A6tcP-1" value="&lt;font style=&quot;font-size: 24px&quot;&gt;&lt;b&gt;ОЮ-ӨРНЕК&lt;/b&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fa6800;strokeColor=#C73500;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="329" y="240" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BCSCtO8i4w_WZG_A6tcP-2" value="" style="endArrow=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="BCSCtO8i4w_WZG_A6tcP-3" target="BCSCtO8i4w_WZG_A6tcP-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="414" y="130" as="sourcePoint" />
+            <mxPoint x="440" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BCSCtO8i4w_WZG_A6tcP-3" value="&lt;font color=&quot;#ffffff&quot;&gt;Әрбір оюшы өзі жасаған оюға ат беріп, тұрмыста қолданған&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="354" y="82" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BCSCtO8i4w_WZG_A6tcP-6" value="Ирек ою - су&lt;br&gt;Дөңгелек - ай&lt;br&gt;Қанат - еркіндік&lt;br&gt;Қошқар мүйіз - молшылық" style="ellipse;whiteSpace=wrap;html=1;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="354" y="398" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BCSCtO8i4w_WZG_A6tcP-7" value="" style="endArrow=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="BCSCtO8i4w_WZG_A6tcP-1" target="BCSCtO8i4w_WZG_A6tcP-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="320" as="sourcePoint" />
+            <mxPoint x="440" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BCSCtO8i4w_WZG_A6tcP-8" value="Өте ежелгі өнер, тарихи деректер бойынша б.з.д. пайда болған" style="ellipse;whiteSpace=wrap;html=1;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="620" y="240" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BCSCtO8i4w_WZG_A6tcP-9" value="" style="endArrow=none;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="BCSCtO8i4w_WZG_A6tcP-8" target="BCSCtO8i4w_WZG_A6tcP-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="387" y="319" as="sourcePoint" />
+            <mxPoint x="437" y="269" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BCSCtO8i4w_WZG_A6tcP-10" value="&lt;span&gt;Ою және өрнек сөздерінің мағынасы бір&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="106" y="240" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BCSCtO8i4w_WZG_A6tcP-11" value="" style="endArrow=none;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="BCSCtO8i4w_WZG_A6tcP-1" target="BCSCtO8i4w_WZG_A6tcP-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="387" y="319" as="sourcePoint" />
+            <mxPoint x="437" y="269" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BCSCtO8i4w_WZG_A6tcP-12" value="Алғашында, тасқа, ағашқа, сүйекке ойып салған" style="ellipse;whiteSpace=wrap;html=1;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="532" y="119" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BCSCtO8i4w_WZG_A6tcP-14" value="" style="endArrow=none;html=1;entryX=1;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="BCSCtO8i4w_WZG_A6tcP-12" target="BCSCtO8i4w_WZG_A6tcP-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="387" y="319" as="sourcePoint" />
+            <mxPoint x="437" y="269" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BCSCtO8i4w_WZG_A6tcP-15" value="200-дей түрі бар, мүйіз текетсі көп тараған" style="ellipse;whiteSpace=wrap;html=1;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="532" y="357" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BCSCtO8i4w_WZG_A6tcP-16" value="" style="endArrow=none;html=1;entryX=1;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="BCSCtO8i4w_WZG_A6tcP-15" target="BCSCtO8i4w_WZG_A6tcP-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="387" y="319" as="sourcePoint" />
+            <mxPoint x="437" y="269" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BCSCtO8i4w_WZG_A6tcP-17" value="Ең көп тарағандары: қошқар мүйіз, арқар мүйіз, қырық мүйіз, т.б." style="ellipse;whiteSpace=wrap;html=1;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="155" y="344" width="137" height="87" as="geometry" />
+        </mxCell>
+        <mxCell id="BCSCtO8i4w_WZG_A6tcP-18" value="" style="endArrow=none;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="BCSCtO8i4w_WZG_A6tcP-1" target="BCSCtO8i4w_WZG_A6tcP-17">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="387" y="319" as="sourcePoint" />
+            <mxPoint x="437" y="269" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BCSCtO8i4w_WZG_A6tcP-19" value="Мазмұны - мал өсіру, аңшылықты, жер-су, көші-қон, көріністерінің сыртқы бейнесі" style="ellipse;whiteSpace=wrap;html=1;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="163" y="105" width="141" height="99" as="geometry" />
+        </mxCell>
+        <mxCell id="BCSCtO8i4w_WZG_A6tcP-20" value="" style="endArrow=none;html=1;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="BCSCtO8i4w_WZG_A6tcP-19" target="BCSCtO8i4w_WZG_A6tcP-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="387" y="319" as="sourcePoint" />
+            <mxPoint x="437" y="269" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
